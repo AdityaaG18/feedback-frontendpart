@@ -1,0 +1,93 @@
+.inputs {
+  border: none;
+  border-bottom: 1px solid #AAAAAA;
+  outline: none;
+  margin-left: 20px;
+}
+
+.signup {
+  width: 600px;
+}
+
+.header {
+  margin-top: 60px;
+  margin-left: 60px;
+  font-weight: 700;
+  font-size: 39.1477px;
+
+}
+
+.loginbtn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  margin-bottom: 5px;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-decoration-line: underline;
+  color: #36416A;
+}
+
+.textbtn {
+  color: #737373;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.buttonchip2 {
+  display: inline-block;
+  background: #36416A;
+  color: white;
+  width: 100px;
+  border-radius: 50px;
+  padding: 6px 20px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border: none;
+  transition: all 0.3s ease-in-out;
+  font-family: 'DM Sans';
+  font-style: normal;
+  margin-left: 50px;
+  margin-bottom: 150px;
+  margin-top: 40px;
+}
+
+.feedbackstext {
+  margin-top: 60px;
+  font-size: 30px;
+  font-weight: 500;
+  color: white;
+  margin-left: 30px;
+}
+
+.feedbacksitem {
+  color: white;
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+.col6color {
+  background: #36416A;
+}
+
+@media screen and (max-width:600px) {
+  .mainBox{
+      width: 80vw;
+      
+  }
+  .text2{
+      font-size: 1.5em;
+      padding: 0 1rem;
+      margin-bottom: .5rem;
+  }
+}
